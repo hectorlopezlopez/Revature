@@ -31,6 +31,8 @@ public class Operations {
                 case 4:
                     System.out.println("La divicion es->"+numero1/numero2);
                 break;
+                  default:
+                System.out.println("Operacion no existente");
 
         }
     }
